@@ -20,4 +20,4 @@ Proyek ini dibuat menggunakan Laravel 12 dan Filament v3 sebagai studi kasus unt
 4. Jalankan `php artisan serve`
 
 ---
-**Disusun oleh:** Wahyu Cahya Bagus Pamungkas
+**Disusun oleh:** Wahyu Cahya Bagus Pamungkas 20230801035
